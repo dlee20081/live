@@ -1,3 +1,4 @@
+"lives":
 [
 {"name":"IPTV","type":0,"url":"https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u","playerType":2,"logo":"https://11.112114.xyz/logo/{name}.png"},
 {"name":"花园","type":0,"url":"https://gitee.com/sji820/des/raw/master/0.jpg","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://11.112114.xyz/logo/{name}.png"},
