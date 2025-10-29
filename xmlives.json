@@ -1,0 +1,29 @@
+{
+  "lives": [
+    {
+      "name": "IPTV",
+      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
+      "type": 0
+    },
+    {
+      "name": "花园",
+      "url": "https://gitee.com/sji820/des/raw/master/0.jpg",
+      "type": 1
+    },
+    {
+      "name": "飞鸟",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/dlee20081/live/main/chfn",
+      "type": 1
+    },
+    {
+      "name": "香蕉",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/dlee20081/live/main/xjsp",
+      "type": 1
+    },
+    {
+      "name": "黄仓",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/dlee20081/live/main/hsck",
+      "type": 1
+    }
+  ]
+}
